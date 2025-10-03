@@ -1,1 +1,1 @@
-# Happy-Ladybugs-algo
+# Happy-Ladybugs-algo This program determines if a ladybug board can be arranged so that all ladybugs are happy, meaning each ladybug has at least one identical neighbor. It checks if there’s at least one empty space for rearrangement or if all ladybugs are already grouped; if any color occurs only once and there’s no empty space, it returns `"NO"`, otherwise `"YES"`.
